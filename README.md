@@ -7,7 +7,7 @@ level2-semantic-segmentation-level2-cv-08 created by GitHub Classroom
 
 ### 1.1 프로젝트 주제
 
-![Untitled](C:\Users\Administrator1\Downloads\Untitled.png)
+![image](https://user-images.githubusercontent.com/71866756/168483477-aea03437-546e-446b-82e1-f8ed33c5bc01.png)
 
 대량 생산, 대량 소비의 시대로 우리는 많은 물건이 대량으로 생산되고, 소비되는 시대를 살고 있습니다. 하지만 이러한 문화는 '쓰레기 대란', '매립지 부족'과 같은 여러 사회 문제를 낳고 있습니다.
 
@@ -110,7 +110,7 @@ level2-semantic-segmentation-level2-cv-08 created by GitHub Classroom
 
 - 프로젝트 수행 및 완료
 
-  ![p stage2_복사본-001](C:\Users\Administrator1\Downloads\p stage2_복사본-001.png)
+  ![image](https://user-images.githubusercontent.com/71866756/168483484-460b8c77-5a0d-46ee-a837-f38e9e92377c.png)
 
 ## 4. 프로젝트 수행 결과
 
