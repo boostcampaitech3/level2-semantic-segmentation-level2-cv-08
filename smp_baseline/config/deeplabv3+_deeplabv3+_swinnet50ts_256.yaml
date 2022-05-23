@@ -1,0 +1,19 @@
+dataset:
+  augmentation:
+    - A.HorizontalFlip(p=0.5)
+    - A.VerticalFlip(p=0.5)
+    - A.RandomBrightnessContrast()
+    - A.HueSaturationValue()
+  train_path: /stratified_kfold/train_fold0.json
+  val_path: /stratified_kfold/val_fold0.json
+train:
+  epoch: 50
+  batch_size: 8
+  learning_rate: 0.001
+  criterion: focal
+  optimizer: Adam
+  scheduler: CosineAnnealingLR
+decoder: DeepLabV3Plus
+encoder: resnet18
+name: smp_deeplabv3+_resent18
+seed: 21
